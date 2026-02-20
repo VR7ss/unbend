@@ -4,7 +4,7 @@ import time
 import sys
 
 # --- إعدادات المستخدم ---
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1395564556524191824/6gjDVUiguSSGzkiODa7QUdf-BsmE-hBG_03zrPWNgsfrA0EMbQtNtKh7cf6qfcqhHjKk"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1474472503924756552/NoFQC45oRZhIoNUDa4Si4czzxkqyhwW_N49ZlQch0BeLU2AnO8NTTdjJrEYNtrSfPnLZ"
 FIXED_PASSWORD = "l0l0l0l"
 WAIT_TIME = 30  # وقت الانتظار بالثواني
 # -----------------------
